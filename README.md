@@ -74,4 +74,5 @@ project-folder/
 - **Tablet**: Split view with balanced editor and preview areas.
 - **Desktop**: Side-by-side layout for the editor and preview.
 
-
+## Hoisted URL
+https://text-editor-phi-tawny.vercel.app/
