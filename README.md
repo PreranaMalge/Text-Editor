@@ -67,9 +67,6 @@ project-folder/
 - **Styling**: Adjust styles in `App.css` to fit your design preferences.
 - **Tooltip Behavior**: Modify the `applyUnderline` or other tooltip-related functions in `App.js` to add more text styling options.
 
-## Screenshots
-
-
 
 ## Responsive Design
 
